@@ -17,7 +17,7 @@ public class MainApp {
 		int notas[] = new int[cantAlumnos];
 		
 		cargarNotas(apellidosAlumnos, notas);
-		//sumar notas
+		
 		sumarNotas = sumarNotas(sumarNotas, notas);
 		
 		imprimirLista(apellidosAlumnos, notas);
