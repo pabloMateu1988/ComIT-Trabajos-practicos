@@ -29,12 +29,6 @@ public class MainApp {
 		alumnosQueSuperanPromedio(promedio, apellidosAlumnos, nombresAlumnos, notas);
 		
 		
-		
-		
-		
-		
-		
-
 	}
 
 	private static double sumarNotas(double sumarNotas, int[] notas) {
